@@ -1,4 +1,4 @@
-![logo](logo.jpg)
+![logo](logo.png)
 # Nombre empresa: CatKind
 Slogan: Conoce cada maullido, descubre cada raza
 
